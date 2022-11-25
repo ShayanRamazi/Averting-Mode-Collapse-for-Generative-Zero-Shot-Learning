@@ -1,13 +1,15 @@
 # Averting Mode Collapse for Generative Zero-Shot Learning
-Averting Mode Collapse for Generative Zero-Shot Learning [paper](https://ieeexplore.ieee.org/document/9420574)
+Averting Mode Collapse for Generative Zero-Shot Learning 
 
 ## Data
 The code uses the ResNet101 features provided by the paper: Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly, and follows its GZSL settings.
 
 The features can be download here [data](http://datasets.d2.mpi-inf.mpg.de/xian/xlsa17.zip)
 ## Video
+[Link](https://iccke.um.ac.ir/Areas/Panel/Hamayesh/2/88f50f46-c077-4da1-a82c-9607928917e0/Asar/6321/iccke-1139___e2DQf.mp4)
+## Presentation
+[ICCKE.pdf](https://github.com/ShayanRamazi/Averting-Mode-Collapse-for-Generative-Zero-Shot-Learning/files/10094151/ICCKE.pdf)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3PxsFIZsc0M/0.jpg)](https://www.youtube.com/watch?v=3PxsFIZsc0M)
 
 
 ## Run
